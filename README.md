@@ -21,20 +21,23 @@ Matplotlib (grafiksel gösterimler için)
 Değişken
 
 Açıklama
-
-Aralık
+İlk başta boş grafik göreceksiniz ve girdiğiniz değişkenlere göre grafikler düzenlenecektir.
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/1.png)
 
 Kiralanma Süreci
 
 Kaç günlüğüne araç kiralanacak
 
 1 - 30
-![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/2e69db487ec8ea7d5f4a31afd1ff45b0eb88d992/screenshots/1.png)
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/2.png)
 Araba Tipi
 
 1: Küçük, 2: Orta, 3: Büyük
 
 1 - 3
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/3.png)
+
+
 
 Sezon
 
@@ -42,23 +45,26 @@ Sezon
 
 1 - 3
 
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/4.png)
 Müşteri Sadakati
 
 0 (yeni) - 10 (sadık müşteri) !en az 4 girilmelidir.
 
 0 - 10
-
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/5.png)
 Ek Hizmetler
 
 Alınan ek hizmet sayısı
 
 0 - 5
-
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/6.png)
 📄 Çıktı Değişkenleri
 
 Fiyat: 0 - 100 TL arası tahmini ücret
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/7.png)
 
 İndirim: 0 - 50% arası uygulanabilecek indirim
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/a8595c21ddc6169ce8b26e59de3118eaadb3870c/screenshots/8.png)
 
 📋 Kurulum
 
