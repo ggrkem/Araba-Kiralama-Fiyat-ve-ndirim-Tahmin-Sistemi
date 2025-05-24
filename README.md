@@ -29,7 +29,7 @@ Kiralanma Süreci
 Kaç günlüğüne araç kiralanacak
 
 1 - 30
-
+![image alt](https://github.com/ggrkem/Araba-Kiralama-Fiyat-ve-ndirim-Tahmin-Sistemi/blob/2e69db487ec8ea7d5f4a31afd1ff45b0eb88d992/screenshots/1.png)
 Araba Tipi
 
 1: Küçük, 2: Orta, 3: Büyük
@@ -44,7 +44,7 @@ Sezon
 
 Müşteri Sadakati
 
-0 (yeni) - 10 (sadık müşteri)
+0 (yeni) - 10 (sadık müşteri) !en az 4 girilmelidir.
 
 0 - 10
 
