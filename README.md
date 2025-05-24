@@ -103,7 +103,7 @@ Lütfen önce bir issue açın ve neyi geliştirmek istediğinizi belirtin. Ard�
 
 📄 Lisans
 
-Bu proje MIT lisansı ile lisanslanmıştır. Daha fazla bilgi için LICENSE dosyasını inceleyin.
+Bu proje Görkem Akyol tarafından Bulanık Mantık dersi final projesi olarak geliştirilmiştir.
 
 👨‍💻 Geliştirici
 
